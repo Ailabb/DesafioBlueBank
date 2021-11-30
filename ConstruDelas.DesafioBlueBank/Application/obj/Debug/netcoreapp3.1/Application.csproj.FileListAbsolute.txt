@@ -1,0 +1,14 @@
+C:\Users\georg\Documents\Aila\Desafio\ConstruDelas.DesafioBlueBank\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\georg\Documents\Aila\Desafio\ConstruDelas.DesafioBlueBank\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\georg\Documents\Aila\Desafio\ConstruDelas.DesafioBlueBank\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\georg\Documents\Aila\Desafio\ConstruDelas.DesafioBlueBank\Application\bin\Debug\netcoreapp3.1\BankManagement.dll
+C:\Users\georg\Documents\Aila\Desafio\ConstruDelas.DesafioBlueBank\Application\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\georg\Documents\Aila\Desafio\ConstruDelas.DesafioBlueBank\Application\bin\Debug\netcoreapp3.1\BankManagement.pdb
+C:\Users\georg\Documents\Aila\Desafio\ConstruDelas.DesafioBlueBank\Application\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\georg\Documents\Aila\Desafio\ConstruDelas.DesafioBlueBank\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Users\georg\Documents\Aila\Desafio\ConstruDelas.DesafioBlueBank\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\georg\Documents\Aila\Desafio\ConstruDelas.DesafioBlueBank\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\georg\Documents\Aila\Desafio\ConstruDelas.DesafioBlueBank\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\georg\Documents\Aila\Desafio\ConstruDelas.DesafioBlueBank\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\georg\Documents\Aila\Desafio\ConstruDelas.DesafioBlueBank\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\georg\Documents\Aila\Desafio\ConstruDelas.DesafioBlueBank\Application\obj\Debug\netcoreapp3.1\Application.pdb
